@@ -12,3 +12,12 @@ Or, if you have a directory full of PDFs that you want converted, use the <a hre
 - Developed using V.S. Code
 
 ###### Note - You must have the dependencies required by Spire, such as LibSkiaSharp.dll.<br>It's advised that you have the C++ Build Tools (<a href = "https://learn.microsoft.com/en-us/cpp/build/vscpp-step-0-installation?view=msvc-170">Use Visual Studio for this!</a>).
+
+## Future Scope
+- More APIs for other tasks, such as merging many PDFs/DOCXs/PPTXs/etc.
+- Supporting other conversions
+- Frontend interface 
+
+## Acknowledgements
+Thanks to E-ICEBLUE, Spire for their products.<br>
+Special thanks to `scanny@github`, I used some of his find-and-replace logic to remove watermarks for DOCX pipelines.
