@@ -2,8 +2,8 @@
 You know the amazing website for everything to do with PDFs - <a href = "https://www.ilovepdf.com/">iLovePDF</a>?<br>
 Yeah, thought I'd make it open-source! 𓆩♡𓆪<br><br>
 
-Simply use <a href = "https://github.com/adityapathak-cubastion/iLikePDF/tree/main/APIs">the APIs</a> to input a PDF and convert it to DOCX/PPTX.<br>
-Or, if you have a directory full of PDFs that you want converted, use the <a href = "https://github.com/adityapathak-cubastion/iLikePDF/tree/main/pipelines-for-bulk-conversion">pipelines for bulk conversion</a>!
+Simply use <a href = "https://github.com/adityapathakk/iLikePDF/tree/main/APIs">the APIs</a> to input a PDF and convert it to DOCX/PPTX.<br>
+Or, if you have a directory full of PDFs that you want converted, use the <a href = "https://github.com/adityapathakk/iLikePDF/tree/main/pipelines-for-bulk-conversion">pipelines for bulk conversion</a>!
 
 ## Technologies Used
 - Python and it's libraries - python-docx, python-pptx, regex, and more!
